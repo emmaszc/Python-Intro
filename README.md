@@ -45,7 +45,7 @@ Basic Python scripting to analyze financial and voting records
 
   * The winner of the election based on popular vote.
 
-* As an example, the analysis should look similar to the one below:
+* As an example, the analysis looks similar to the one below:
 
   ```text
   Election Results
